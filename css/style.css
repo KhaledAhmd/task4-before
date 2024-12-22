@@ -1,0 +1,219 @@
+#logo{
+    border-radius: 50px;
+}
+#home{
+    background-image:url(../imgs/R.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+.text{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: capitalize;
+    padding-top: 300px;
+
+}
+#poto{
+    background-color: rgba(0, 0, 0, 0.354);
+    height: 100vh;
+}
+.btn1{
+    padding: 15px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 40px;
+    width: 150px;
+}
+#prodect{
+    height: 100vh;
+    background-color: rgb(155, 154, 154);
+}
+.d-block{
+    height: 600px;
+    margin-left: 300px;
+    width: 1300px;
+   
+}
+.carousel-caption{
+    color: black;
+    border: 3px;
+    background-color: rgba(92, 2, 2, 0.881);
+    border-radius: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    
+    
+}
+.carousel-item{
+   margin-left: 800px;
+   height: 500px;
+}
+.carousel-item img{
+    height: 250px;
+}
+.card-body{
+    text-align: center;
+    padding: 50px;
+}
+#product{
+   
+    text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+#contact-us{
+    
+    text-align: center;
+    padding: 10px; 
+    padding-top: 20px;
+}
+.cont{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.contact h2{
+    text-align: center;
+    margin-top: 70px;
+  }
+  .contact-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 50px;
+  }
+  
+  .contact-details {
+    width: 40%;
+  }
+  
+  .contact-details h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .contact-details p {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .contact-details p strong {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+  }
+  
+  .social-icons img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .contact-form {
+    width: 50%;
+  }
+  
+  .contact-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-form input, 
+  .contact-form textarea {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #2844a7;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .contact-form input:focus,
+  .contact-form textarea:focus {
+    outline: none;
+    border-color: #214788;
+    box-shadow: 0 0 5px rgba(40, 65, 167, 0.421);
+  }
+  
+  .contact-form button {
+    padding: 10px 20px;
+    background-color: #283ba7;
+    color: white;
+    border: 2px solid #2c28a7;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    align-self: flex-start;
+  }
+  
+  .contact-form button:hover{
+    background-color: #fff;
+    color: #28a745;
+    border-color: #28a745;
+  }
+  .imgabout{
+    width: 100%;
+  }
+  #textrrr{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #about{
+    background-color: #646161;
+    font-size: 20px;
+  }
+  .test{
+    color: white;
+    background-color: rgb(26, 3, 3);
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 100px;
+    height: 100vh;
+    padding-left:90px;
+    align-items: center;
+}
+.test h1{
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+}
+.rate{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    border-radius: 10px;
+    justify-items: center;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.rate p{
+    color: rgb(156, 152, 152);
+}
+.test .section .rate img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.test .section span{
+    color: red;
+    font-size: 20px;
+    
+}
+  
+  
+
+
